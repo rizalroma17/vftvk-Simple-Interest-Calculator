@@ -1,10 +1,27 @@
-body {background-color:black;font-family:arial;color:white}
-h1{color:grey;font-family:verdana}
+/* CSS Body */
+body {
+	background-color:black;
+	font-family:arial;
+	color:white;
+}
+
+/* CSS Heading 1 */
+h1{
+	color:grey;
+	font-family:verdana;
+}
+
+/* CSS Maindiv Class */
 .maindiv {
     background-color:white;
     color:black;
     width:300px;
     padding:20px;
     border-radius:25px;
-    align:center
+    align:center;
+}
+
+/* CSS output highlighted in yellow */
+.highlight {
+  background-color: yellow;
 }
